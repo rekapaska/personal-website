@@ -35,7 +35,7 @@ export const projects = [
     },
 ];
 
-export const profile =
+export const logo =
 {
-    image: require("./assets/profile.jpeg"),
+    image: require("./assets/logo.png"),
 };

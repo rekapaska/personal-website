@@ -5,7 +5,7 @@ export default function Skills() {
         <section id="skills">
             <div className="bg-myblue font-[Inter] text-2xl text-white text-center pt-10">
                 <div className="container mx-auto pt-1">
-                    <div className="text-5xl font-bold text-center mb-5">Skill</div>
+                    <div className="text-3xl sm:text-5xl font-bold text-center mb-4">Skill</div>
                     <div class="grid mb-8 rounded-lg  md:mb-12 md:grid-cols-2">
                         <figure class="flex flex-col justify-center items-center p-8 text-center bg-myblue rounded-t-lg border-b border-gray-200 md:rounded-t-none md:rounded-tl-lg md:border-r">
                             <blockquote class="mx-auto mb-4 max-w-2xl text-gray-500 lg:mb-8 dark:text-gray-400">

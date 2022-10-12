@@ -6,7 +6,7 @@ export default function Contact() {
         <section id="contact" className="bg-mywhite">
             <div className="font-[Inter] container px-5 py-10 mx-auto text-center lg:px-40">
                 <div className="flex flex-col w-full">
-                    <div className="text-5xl xsm:text-5xl font-bold mb-4">
+                    <div className="text-3xl sm:text-5xl font-bold text-center mb-4">
                         Kontak
                     </div>
                     <div className="flex mx-auto">
